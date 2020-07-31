@@ -5,8 +5,6 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   帝都，不惑之年，程序猿，修行，内心和外在统一，平静.
   
-
-
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -56,6 +54,10 @@ minima:
 theme: minima
 
 markdown: kramdown
+
+show_excerpts: true
+
+google_analytics: UA-NNNNNNNN-N
 
 plugins:
  - jekyll-feed
