@@ -1,11 +1,9 @@
-title: Your awesome title
+title: 阅读&体会
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: lugongyu
+  email: 904504440@qq.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  帝都，不惑之年，程序猿，修行，内心和外在统一，平静.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
