@@ -52,7 +52,7 @@ minima:
 # Build settings
 theme: minima
 
-markdown: GFM
+markdown: kramdown
     
 plugins:
  - jekyll-feed
